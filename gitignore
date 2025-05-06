@@ -30,7 +30,7 @@ Thumbs.db
 # =============================
 # ARQUIVOS DE BUILD
 # =============================
-/build/
+/build/sistema/
 
 # =============================
 # IGNORAR ARQUIVO DE CONFIG DO PYINSTALLER (opcional)
