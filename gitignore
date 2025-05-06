@@ -1,23 +1,38 @@
-# Ambiente virtual
+# =============================
+# AMBIENTE VIRTUAL
+# =============================
 .venv/
 venv/
 
-# Cache do Python
+# =============================
+# ARQUIVOS TEMPORÁRIOS DO PYTHON
+# =============================
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Arquivos de log
+# =============================
+# ARQUIVOS DE LOG
+# =============================
 *.log
 
-# Configurações do VSCode
+# =============================
+# CONFIGURAÇÕES DE EDITOR
+# =============================
 .vscode/
 
-# Arquivos temporários do sistema
+# =============================
+# SISTEMAS E OUTROS
+# =============================
 .DS_Store
 Thumbs.db
 
-# PyInstaller
+# =============================
+# ARQUIVOS DE BUILD
+# =============================
 /build/
-/dist/
+
+# =============================
+# IGNORAR ARQUIVO DE CONFIG DO PYINSTALLER (opcional)
+# =============================
 *.spec
